@@ -19,4 +19,8 @@ func main() {
 	Format()
 	fmt.Println()
 
+	fmt.Println()
+	ArraySlices()
+	fmt.Println()
+
 }
