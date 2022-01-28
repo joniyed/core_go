@@ -14,5 +14,7 @@ func main() {
 
 	//BasicLibraries()
 
-	Loops()
+	//Loops()
+
+	BoolAndCondition()
 }
