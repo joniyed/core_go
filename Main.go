@@ -12,5 +12,7 @@ func main() {
 
 	//ArraySlices()
 
-	BasicLibraries()
+	//BasicLibraries()
+
+	Loops()
 }
