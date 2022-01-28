@@ -1,11 +1,22 @@
 package main
 
-import "Go_Core/Files"
+import (
+	. "Go_Core/Files"
+	"fmt"
+)
 
 func main() {
 
-	Files.HelloWord()
+	fmt.Println()
+	HelloWord()
+	fmt.Println()
 
-	Files.DataTypesAndVariables()
+	fmt.Println()
+	DataTypesAndVariables()
+	fmt.Println()
+
+	fmt.Println()
+	Format()
+	fmt.Println()
 
 }
